@@ -149,6 +149,10 @@ ul.list-left li {
 .header-top{
 	cursor: pointer;
 }
+.imgWeb:hover{
+	filter: drop-shadow(8px 8px 10px gray);
+	filter: contrast(120%);
+}
 /* .header-top ul li a:hover{
 	color:red;
 } */
@@ -646,6 +650,37 @@ div#portfolioModal1,div#portfolioModal2,div#portfolioModal3,div#portfolioModal4,
     margin-left: 18%;
     }
 }
+@media (max-width: 364px) and (min-width: 321px){ 
+	
+    .scroll1{
+      padding-left: 0.8rem;
+	}
+	
+}
+@media (max-width: 401px) and (min-width: 385px){ 
+	
+    .scroll1{
+      padding-left: 0.8rem;
+	}
+	
+}
+@media (max-width: 433px) and (min-width: 415px){ 
+	
+    .scroll1{
+      padding-left: 0.8rem;
+	}
+	
+}
+@media (max-width: 480px) and (min-width: 440px){ 
+	
+    .nav1{
+		margin-bottom: -1%;
+	}
+	.header-left{
+		margin-top: 4%;
+	}
+	
+}
 @media (max-width: 644px) and (min-width: 481px){ 
 	
     .tittle {
@@ -656,6 +691,27 @@ div#portfolioModal1,div#portfolioModal2,div#portfolioModal3,div#portfolioModal4,
 		}
 	.portfolio{
 		margin-top: -12%;
+	}
+	
+}
+@media (max-width: 991px) and (min-width: 801px){ 
+	
+    .pro-text{
+		width: 50%;
+	}
+	
+}
+@media (max-width: 667px) and (min-width: 569px){ 
+	
+    .pro-text{
+		width: 100%!important;
+	}
+	
+}
+@media (max-width: 359px) and (min-width: 321px){ 
+	
+    .year{
+		font-size: 9px!important;
 	}
 	
 }
