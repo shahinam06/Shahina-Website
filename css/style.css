@@ -156,9 +156,14 @@ ul.list-left li {
 /* .header-top ul li a:hover{
 	color:red;
 } */
-.header-top ul li a:focus{
+/* .header-top ul li a:focus{
 	color:black;
 }
+.header-top ul li a:active{
+	color:black;
+} */
+
+
 /* .header-top ul li a:active{
 	color:red;
 } */
