@@ -1905,4 +1905,6 @@ h3.tittle:after, h3.tittle:before {
 		margin-top: 8px;
 	}
 }
-
+.font-white{
+	color: #f7f7f7!important;
+}
