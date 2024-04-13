@@ -1212,9 +1212,13 @@ background:#fff;
 	.abt-gd-left {
 		padding-top: 152px;
 	}
-	.employ-left,.employ-left2 {
+	.employ-left2 {
 		float: left;
 		width:50%;
+	}
+	.employ-left {
+		float: left;
+		width:51%;
 	}
 	.employ-right,.employ-right2 {
 		float: right;
@@ -1445,7 +1449,7 @@ background:#fff;
 @media (max-width: 600px){
 	.employ-left{
 		float: left;
-		width: 27%;
+		/* width: 27%; */
 	}	
 	ul.list-right {
 		float: left;
